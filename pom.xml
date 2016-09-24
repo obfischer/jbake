@@ -70,7 +70,7 @@
         <commons.configuration.version>1.10</commons.configuration.version>
         <commons.vfs2.version>2.1</commons.vfs2.version>
         <args4j.version>2.33</args4j.version>
-        <freemarker.version>2.3.24-incubating</freemarker.version>
+        <freemarker.version>2.3.25-incubating</freemarker.version>
         <junit.version>4.12</junit.version>
         <pegdown.version>1.6.0</pegdown.version>
         <jetty.version>8.1.19.v20160209</jetty.version>
